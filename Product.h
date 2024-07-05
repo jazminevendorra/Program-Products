@@ -1,5 +1,4 @@
 /*
-Jazmin Even Dorra
 
 Implementation file for classes
 
