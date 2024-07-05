@@ -1,5 +1,4 @@
 /*
-Jazmin Even Dorra
 
 products.cpp
 
